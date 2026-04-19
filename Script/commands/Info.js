@@ -65,10 +65,9 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍─꯭─⃝‌‌RBDC 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
 
  const imgLinks = [
- "https://i.imgur.com/PLTHsNf.jpeg",
- "https://i.imgur.com/M1gGq9T.jpeg",
  "https://i.imgur.com/bNKOVmy.mp4",
- "https://i.imgur.com/tCL6LvO.jpeg"
+ "",
+ ""
 
  ];
 
