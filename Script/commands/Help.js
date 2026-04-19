@@ -43,8 +43,8 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://i.imgur.com/jKPLqpw.jpeg",
-    "https://i.imgur.com/tCL6LvO.jpeg",
+    "https://i.imgur.com/bNKOVmy.mp4",
+    "",
     
      
 ];
@@ -143,7 +143,7 @@ module.exports.run = function ({ api, event, args, getText }) {
 ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
-┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
+┃ 🤖 Bot Name: ${global.config.BOTNAME || "RBDC x AKASH 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"}
 ┃ 👑 Owner: Fabu lous Akash
 ╰━━━━━━━━━━━━━━━━╯`;
 
